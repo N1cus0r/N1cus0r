@@ -1,10 +1,14 @@
-### Hi there 👋 I'm Nick !
+### Hi there 👋 I'm Nick ! I like to sleep 💤 and turn sadness into code ✨
 
-I like to sleep 💤 and turn sadness into code ✨
-
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1cus0r&theme=react&layout=compact" />
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=N1cus0r&show_icons=true&theme=react" />
+<div style="display: flex; flex-direction: row">
+  <img
+    class="img"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1cus0r&theme=react&layout=compact"
+  />
+  <img
+    class="img"
+    src="https://github-readme-stats.vercel.app/api?username=N1cus0r&show_icons=true&theme=react"
+  />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,10 +29,10 @@ I like to sleep 💤 and turn sadness into code ✨
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
       width="40"
       height="40"
     />
@@ -37,6 +41,14 @@ I like to sleep 💤 and turn sadness into code ✨
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
       width="40"
       height="40"
     />
@@ -70,4 +82,3 @@ I like to sleep 💤 and turn sadness into code ✨
     />
   </a>
 </p>
-
