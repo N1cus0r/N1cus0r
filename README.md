@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Nick ! I like to sleep 💤 and turn sadness into code ✨
+### Hi there 👋 I'm Nick 
+### ! I like to sleep 💤 and turn sadness into code ✨
 
 <div style="display: flex; flex-direction: row">
   <img
