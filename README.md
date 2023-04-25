@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nick ! 
 ### I like to sleep 💤 and turn sadness into code ✨
-
+<!-- 
 <div style="display: flex; flex-direction: row">
   <img
     class="img"
@@ -10,7 +10,8 @@
     class="img"
     src="https://github-readme-stats.vercel.app/api?username=N1cus0r&show_icons=true&theme=react"
   />
-</div>
+</div> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
